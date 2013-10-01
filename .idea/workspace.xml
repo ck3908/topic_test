@@ -19,7 +19,7 @@
     <file path="/index.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380526989773" ignored="false" />
     <file path="/_form.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380438126444" ignored="false" />
     <file path="/topics_controller.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380305973468" ignored="false" />
-    <file path="/list.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380564621654" ignored="false" />
+    <file path="/list.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380572086992" ignored="false" />
     <file path="/Gemfile" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380538977411" ignored="false" />
     <file path="/seeds.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1379996498212" ignored="false" />
     <file path="/topics.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380042134835" ignored="false" />
@@ -29,7 +29,27 @@
     <file path="/reviews_controller.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380534004947" ignored="false" />
     <file path="/review.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380363402311" ignored="false" />
     <file path="/devise.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380537899094" ignored="false" />
-    <file path="$PROJECT_DIR$/../../finaltemp/topics_app/db/schema.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380566831117" ignored="false" />
+    <file path="$PROJECT_DIR$/../../finaltemp/topics_app/db/schema.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380571963818" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/views/ideas/show.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/db/migrate/20130930063750_add_avg_rating_to_topics.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/db/migrate/20130925002719_devise_create_users.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/db/migrate/20130925044435_create_reviews.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/db/migrate/20130925024015_add_admin_and_name_to_users.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/db/migrate/20130923043250_create_topics.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/views/layouts/application.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/db/migrate/20130922182043_create_topics.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/controllers/ideas_controller.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/views/ideas/list.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/Gemfile" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/views/pages/contact_us.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/views/pages/home.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/views/pages/login.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/config/routes.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/views/pages/new_idea.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/views/pages/ideas.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/views/topics/show.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995/app/models/topic.rb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380568904613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../finaltemp/topics_app/app/views/ideas/list.html.erb" changelist="c7549522-0c0e-43e1-99a5-7137d19c330f" time="1380572086992" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,27 +87,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pages/login.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ideas.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pages/ideas.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1380001804603" expanded="false" signature="100:150" placeholder="..." />
-                <marker date="1380001804603" expanded="true" signature="151:372" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,10 +105,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="11" column="71" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/reviews/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="9.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/topics/_form.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.41239893">
               <folding />
             </state>
           </provider>
@@ -185,10 +202,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="120" />
-    <option name="y" value="103" />
-    <option name="width" value="1580" />
-    <option name="height" value="860" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -216,6 +233,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -567,22 +585,21 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../herokuclone/gentle-forest-9995" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../finaltemp/topics_app" />
     <property name="FullScreen" value="false" />
     <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
-    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
   </component>
   <component name="RunManager" selected="Rails.Development: Concept">
     <configuration default="false" name="db:migrate" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
@@ -914,15 +931,15 @@
       <method />
     </configuration>
     <list size="9">
-      <item index="0" class="java.lang.String" itemvalue="Rake.db:migrate" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.db:seed" />
-      <item index="2" class="java.lang.String" itemvalue="IRB console.IRB console" />
-      <item index="3" class="java.lang.String" itemvalue="Rake.routes" />
-      <item index="4" class="java.lang.String" itemvalue="IRB console.Rails console: Concept" />
-      <item index="5" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="6" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="7" class="java.lang.String" itemvalue="Rails.Production: Concept" />
-      <item index="8" class="java.lang.String" itemvalue="Rails.Development: Concept" />
+      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: Concept" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: Concept" />
+      <item index="4" class="java.lang.String" itemvalue="Rake.db:migrate" />
+      <item index="5" class="java.lang.String" itemvalue="Rake.db:seed" />
+      <item index="6" class="java.lang.String" itemvalue="IRB console.IRB console" />
+      <item index="7" class="java.lang.String" itemvalue="Rake.routes" />
+      <item index="8" class="java.lang.String" itemvalue="IRB console.Rails console: Concept" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -961,18 +978,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="103" width="1580" height="860" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2312253" sideWeight="0.5919779" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23552124" sideWeight="0.6008119" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40802214" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3991881" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1044,46 +1061,24 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/reviews/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="9.230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/reviews/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/reviews/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="11.769231">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="11.769231" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/reviews/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/reviews/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="14.461538">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="14.461538" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/new_idea.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/login.html.erb">
@@ -1097,8 +1092,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1380001804603" expanded="false" signature="100:150" placeholder="..." />
-            <marker date="1380001804603" expanded="true" signature="151:372" placeholder="..." />
+            <marker date="1380001804603" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1380001804603" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1154,7 +1149,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="11" column="71" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/reviews/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="9.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/topics/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.41239893">
           <folding />
         </state>
       </provider>
